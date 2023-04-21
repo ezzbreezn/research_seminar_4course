@@ -112,7 +112,7 @@ High Frequency Functions in Low Dimensional Domains](https://arxiv.org/pdf/2006.
 
 Защищена преддипломная практика по выбранной теме.
 
-**20.01.22**
+**20.01.23**
 
 Собраны и рассмотрены статьи по теме:
 - [Product-based Neural Networks for User Response Prediction](https://arxiv.org/pdf/1611.00144.pdf)
